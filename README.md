@@ -12,6 +12,7 @@ This project is ideal for beginners who want to learn how OTP systems work at th
 📋 Copy OTP functionality (optional)
 🎨 Clean and modern UI
 📱 Fully responsive design
+
 🛠️ Tech Stack
 HTML5 – Structure
 CSS3 – Styling
