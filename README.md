@@ -7,15 +7,23 @@ The application allows users to generate a new OTP instantly with a button click
 This project is ideal for beginners who want to learn how OTP systems work at the frontend level. It does not include backend verification but focuses on UI and logic implementation.
 
 ✨ Features
+
 🔢 Generate random OTP
+
 🔄 Regenerate OTP on click
+
 📋 Copy OTP functionality (optional)
+
 🎨 Clean and modern UI
+
 📱 Fully responsive design
 
 🛠️ Tech Stack
+
 HTML5 – Structure
+
 CSS3 – Styling
+
 JavaScript (ES6) – Logic
 
 
